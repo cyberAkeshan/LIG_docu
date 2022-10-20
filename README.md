@@ -136,24 +136,24 @@ is done when...
 * ... you can select a recipe and add the ingredients with their amount to the list
 
 #### 3.1.5 nearest Supermarket
-This feature will give the user the opportunity to search for a supermarket near to him based on his location.
+This feature will give the suer the opportunity to search for a supermarket near to him based up on his location
 
-**Use Cases:**
-As a User i want to see the nearest supermarket based up from my location to know where i can shop my groceries (Effort high) 
+**UseCase**
+As a User i want to see the nearest supermarket based up from my location to know where I can shop my groceries (Effort hight)
 is done when...
 *...you can see the nearest supermarket
 *...you can filter your favourite supermarkets
 *...you can open and navigate in google maps
 
-#### 3.1.8 Settings
+#### 3.1.6 Settings
 The user can configure and personalise the app. 
 
 **Use Cases:**
 As a User i want to change some settings the why i want to personalize the app usage for me (Effort low)
 is done when...
-... you can change the theme (day/night mode)
-... you can see the app version
-... you see the licenses listItGrocery uses
+*... you can change the theme (day/night mode)
+*... you can see the app version
+*... you see the licenses listItGrocery uses
 
 ### 3.2 Usability
 
