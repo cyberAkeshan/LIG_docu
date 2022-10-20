@@ -120,7 +120,7 @@ is done when...
 #### 3.1.3 show icons next to items
 This feature will be a simple icon for each category. So for example for bread a little wheat icon.
 
-**Use Cases:**
+**Use Case:**
 As a User i want to see icons next to my listitems to get a quick overview (Effort Medium)
 is done when...
 * ... see icons next to the list items
@@ -129,7 +129,7 @@ is done when...
 #### 3.1.4 search for Chefkoch recipes and add ingredients
 This part of the app will enable the user to search for chefkoch recipes and show it with the pictures and ingredients. The user should also be able to add the ingredients to one chosen list.
 
-**Use Cases:**
+**Use Case:**
 As a User i want to search for chefkoch recipes and add the ingredients to my list to shop convenient for my next meal (Effort high)
 is done when...
 * ... you can search chefkoch recipes through their pictures
@@ -148,12 +148,12 @@ is done when...
 #### 3.1.6 Settings
 The user can configure and personalise the app. 
 
-**Use Cases:**
+**Use Case:**
 As a User i want to change some settings the why i want to personalize the app usage for me (Effort low)
 is done when...
-*... you can change the theme (day/night mode)
-*... you can see the app version
-*... you see the licenses listItGrocery uses
+* ... you can change the theme (day/night mode)
+* ... you can see the app version
+* ... you see the licenses listItGrocery uses
 
 ### 3.2 Usability
 
