@@ -94,9 +94,9 @@ Project Management: Youtrack
 
 ### 3.1 Functionality
 
-#### 3.1.1 Dashboard
+#### 3.1.1 List Overview
 
-The start page of DHBWorld should consist of small information-blocks from all parts of the app. This will be realised in form of customizible dashboard. User can configurate visible blocks there.
+The start page of listItGrocery will be an empty page only with an action bar and an add button at the beginning. The user can add lists via the add button with a name.
 
 **Use Cases:**
 * *[View personal Information:](https://github.com/inFumumVerti/DHBWorld-Docu/blob/main/Use%20Cases/View%20personal%20information.md)* User can save important personal Information and view his personal information he saved earlier
