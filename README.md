@@ -113,9 +113,9 @@ This part of the app will be an activity where the user can add items to the lis
 **Use Case:**
 As a User i want to add items to my list to keep an overview over my next grocery shopping (Effort Low)
 is done when...
-... you can add items with their amount and save them
-... you can change items and their amount
-... you can delete items
+* ... you can add items with their amount and save them
+* ... you can change items and their amount
+* ... you can delete items
 
 #### 3.1.3 show icons next to items
 This feature will be a simple icon for each category. So for example for bread a little wheat icon.
@@ -123,8 +123,8 @@ This feature will be a simple icon for each category. So for example for bread a
 **Use Cases:**
 As a User i want to see icons next to my listitems to get a quick overview (Effort Medium)
 is done when...
-... see icons next to the list items
-... see the fitting icon for the item (for tomato and cucumber a vegetable icon, for bread a wheat icon)
+* ... see icons next to the list items
+* ... see the fitting icon for the item (for tomato and cucumber a vegetable icon, for bread a wheat icon)
 
 #### 3.1.4 search for Chefkoch recipes and add ingredients
 This part of the app will enable the user to search for chefkoch recipes and show it with the pictures and ingredients. The user should also be able to add the ingredients to one chosen list.
@@ -132,18 +132,18 @@ This part of the app will enable the user to search for chefkoch recipes and sho
 **Use Cases:**
 As a User i want to search for chefkoch recipes and add the ingredients to my list to shop convenient for my next meal (Effort high)
 is done when...
-... you can search chefkoch recipes through their pictures
-... you can select a recipe and add the ingredients with their amount to the list
+* ... you can search chefkoch recipes through their pictures
+* ... you can select a recipe and add the ingredients with their amount to the list
 
 #### 3.1.5 nearest Supermarket
 This feature will give the user the opportunity to search for a supermarket near to him based on his location.
 
 **Use Cases:**
 As a User i want to see the nearest supermarket based up from my location to know where i can shop my groceries (Effort high) 
-is done when...
-…you can see the nearest supermarket 
-…you can filter your favourite supermarkets
-…you can open and navigate in google maps
+is done when... 
+*...you can see the nearest supermarket
+*...you can filter your favourite supermarkets
+*...you can open and navigate in google maps
 
 #### 3.1.8 Settings
 The user can configure and personalise the app. 
