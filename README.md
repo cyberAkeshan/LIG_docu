@@ -75,16 +75,10 @@ The following chapter provides an overview of this project with vision and Overa
 
 ### 2.1 Vision
 
-Inspired and also annoyed by current not working correctly DHBW android apps we want to develop the DHBWorld app to combine the most important things for a student at DHBW Karlsruhe. The features are explained in "1.2 Scope". We want to build the all in one app so that you have all the key features combined in one __working__ app. So the future students do not have to switch between apps which contains only one or two features.
+Inspired and also annoyed by current grocery shopping list apps sometimes flooded with ads. So we want to create a simple not distracting app where you can do what you want - add grocery lists with items
 
 ### 2.2 Use Case Diagram
-
-![alt text](https://raw.githubusercontent.com/inFumumVerti/DHBWorld-Docu/main/Use%20Case%20Diagram_new_new.svg "Use Case Diagram DHBWorld")
-
-* Green: until december
-* White: until june
-* Yellow: optional
-* Gray: updated use cases
+Here we will add the Use Case Diagram
 
 ### 2.3 Technology Stack
 
@@ -95,8 +89,6 @@ IDE: Android Studio
 Source Control Management: GitHub
 
 Project Management: Youtrack
-
-Database: Firebase
 
 ## 3. Specific Requirements
 
