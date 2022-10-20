@@ -141,9 +141,9 @@ This feature will give the suer the opportunity to search for a supermarket near
 **UseCase**
 As a User i want to see the nearest supermarket based up from my location to know where I can shop my groceries (Effort hight)
 is done when...
-*...you can see the nearest supermarket
-*...you can filter your favourite supermarkets
-*...you can open and navigate in google maps
+* ... you can see the nearest supermarket
+* ... you can filter your favourite supermarkets
+* ... you can open and navigate in google maps
 
 #### 3.1.6 Settings
 The user can configure and personalise the app. 
