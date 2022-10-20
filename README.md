@@ -101,11 +101,11 @@ The start page of listItGrocery will be an empty page only with an action bar an
 **Use Case:**
 As a User i want to add serveral lists for my grocery shopping (Effort Medium)
 is done when...
-... you can add a list with name and save it
-... you see the amounts of items in the list on the list view
-... you see a progress bar on the list view
-... you have settings for the list (export, share, rename, delete....)
-... you go into the actual list when clicking on it
+* ... you can add a list with name and save it
+* ... you see the amounts of items in the list on the list view
+* ... you see a progress bar on the list view 
+* ... you have settings for the list (export, share, rename, delete....)
+* ... you go into the actual list when clicking on it
 
 #### 3.1.2 in List View
 This part of the app will be an activity where the user can add items to the list. Later on we plan on showing icons next to the items.
