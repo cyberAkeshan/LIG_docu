@@ -140,7 +140,7 @@ This feature will give the user the opportunity to search for a supermarket near
 
 **Use Cases:**
 As a User i want to see the nearest supermarket based up from my location to know where i can shop my groceries (Effort high) 
-is done when... 
+is done when...
 *...you can see the nearest supermarket
 *...you can filter your favourite supermarkets
 *...you can open and navigate in google maps
