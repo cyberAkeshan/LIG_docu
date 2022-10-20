@@ -1,4 +1,4 @@
-# DHBWorld - Software Requirements Specification 
+# listItGrocery - Software Requirements Specification 
 
 ## Table of contents
 - [Table of contents](#table-of-contents)
@@ -31,12 +31,12 @@
 
 ### 1.1 Purpose
 
-Welcome to our Software Requirements Specification (SRS). Here we will describe all specifications for our android app "DHBWorld". This SRS will include an overview about our project and what we plan for it in the future. We will also mention and describe information about the planned features and general conditions of the development process.
-We want to develop this app because there is currently not a working app for DHBW (Karlsruhe) students which contains a schedule (rapla), meal plan, your grades and  matriculation number. Also some features we thought that they would be nice like tram departure, notification about queue in the cafeteria and the floor plan. So we want to develop an app which contains these things and is actually working correctly.
+Welcome to our Software Requirements Specification (SRS). Here we will describe all specifications for our android app "listItGtovrtx". This SRS will include an overview about our project and what we plan for it in the future. We will also mention and describe information about the planned features and general conditions of the development process.
+We want to develop this app to keep grocery shopping easy. A simple grocery shopping list app without any kind of ad. We want to keep it simple so we have some necessary and some enhanced features. These will include adding lists, adding items to the list, view icons next to items, find the nearest supermarket, search and view chefkoch recipes with ingredients.
 
 ### 1.2 Scope
 
-The DHBWorld app, as mentioned in "1.1 Purpose", is going to be an android app.
+The listItGrocery app, as mentioned in "1.1 Purpose", is going to be an android app.
 
 Actors of this app can only be users.
 
