@@ -42,20 +42,16 @@ Actors of this app can only be users.
 
 The different features we want to include are:
 
-* Schedule: 
-  The schedule is one of our main features for this app. We want to use rapla to show the student his schedule on the app.
-* Meal plan: 
-  The meal plan should show the student the current meal for the day in the mensa at DHBW Karlsruhe.
-* Dualis: 
-  The dualis feature should give the user an easy way to look up his grades and we plan to realize a notification if a new grade is published.
-* User information: 
-  The user information is optional. You will have a page where you can note your student e-mail and matriculation number.
-* Tram departure: 
-  The tram departure page in our app shows the next few tram departures.
-* Floor plan: 
-  The floor plan page shows view of the DHBW building to give you an overview about where you are and where the next class is.
-* Notification cafeteria, printer, coffee machine: 
-  We want to give the user an opportunity to send a notification about the current queue in the cafeteria. If there are enough reports than all other users should get             notificated. The same idea is planned for the printer and the coffee machine at the DHBW.
+* add a List: 
+  The List feature is one of the key features. Users should be able to create lists with a list name, a progress bar in the list View, amount of items in the list and  a settings menu for each list
+* add items to a list: 
+  The user should be able to add items to his grocery shopping list
+* see item icons: 
+  The user should see a little icon next to his grocery item.
+* nearest supermarket: 
+  The user should see the nearest supermarket based on his location.
+* search chefkoch recipes: 
+  The user should be able to search for a chefkoch recipe and add the ingredients to a list 
   
 
 ### 1.3 Definitions, Acronyms and Abbreviations
@@ -68,8 +64,8 @@ The different features we want to include are:
 
 | Title                                                              | Date       | Publishing organization   |
 | -------------------------------------------------------------------|:----------:| ------------------------- |
-| [DHBWorld Blog](https://dhbworldka.wordpress.com/blog/)    | 21.10.2021 | DHBWorld Team    |
-| [GitHub](https://github.com/inFumumVerti/DHBWorld)              | 21.10.2021 | DHBWorld Team    |
+| [listItGrocery Blog](https://listitgrocery.wordpress.com/)    | 20.10.2022 | listItGrocery Team    |
+| [GitHub](https://github.com/inFumumVerti/DHBWorld)              | 20.10.2022 | DHBWorld Team    |
 | [YouTrack](https://dhbw-karlsruhe.myjetbrains.com/youtrack/projects/df88e1dd-ce27-4721-bcd7-7820e3aa60fc)              | 09.04.2022 | DHBWorld Team    |
 | [Risk Management](https://lists.live.com/:l:/g/personal/b6fef5b2a43fbd53/FIHonHudZfhNtma8HXwP1dQBOCDV7yPLksiIXuwCKay1ZQ) | 24.04.2022 | DHBWorld Team |
 ### 1.5 Overview
