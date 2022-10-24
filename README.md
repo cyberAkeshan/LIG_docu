@@ -232,4 +232,4 @@ For more information check out our blog at: https://dhbworldka.wordpress.com/
 | [Akeshan](https://github.com/cyberAkeshan) | Akeshan | 
 | [Fezaan](https://github.com/Fezaaan) | Fezaaan	|
 | [Wassim](https://github.com/Wassim067) | Wassim067 |
-| [Adrian Kohl](https://github.com/KadrioL) | KadrioL |
+| [Adrian](https://github.com/KadrioL) | KadrioL |
