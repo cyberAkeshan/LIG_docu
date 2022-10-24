@@ -158,7 +158,7 @@ is done when...
 ### 3.2 Usability
 
 #### 3.2.1 Familiar Feeling
-With the use of the standatized Material UI design the App will be intuitive to use. Users can nagivate through the app in a familiar way.
+With the use of the standardized Material UI design the App will be intuitive to use. Users can nagivate through the app in a familiar way.
 
 #### 3.2.2 minimal setup for specific functions
 For functions like the nearest supermarket to user has to allow us to access his location.
