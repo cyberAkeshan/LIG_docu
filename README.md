@@ -78,7 +78,7 @@ The following chapter provides an overview of this project with vision and Overa
 Inspired and also annoyed by current grocery shopping list apps sometimes flooded with ads. So we want to create a simple not distracting app where you can do what you want - add grocery lists with items
 
 ### 2.2 Use Case Diagram
-![alt text](https://raw.githubusercontent.com/inFumumVerti/DHBWorld-Docu/main/Use%20Case%20Diagram_new_new.svg "Use Case Diagram DHBWorld")
+![alt text](https://i.imgur.com/gpic3cP.png "Use Case Diagram listItGrocery")
 
 ### 2.3 Technology Stack
 
