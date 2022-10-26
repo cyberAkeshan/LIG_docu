@@ -224,7 +224,7 @@ n/a
 n/a
 
 ## 4. Supporting Information
-For more information check out our blog at: https://dhbworldka.wordpress.com/ 
+For more information check out our blog at: https://listitgrocery.wordpress.com/
 
 # Made with ❤️ by:
 | Name                                       | Username              |
