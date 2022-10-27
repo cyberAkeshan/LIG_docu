@@ -114,6 +114,14 @@ is done when...
 * ... you go into the actual list when clicking on it
 
 #### 3.1.2 in List View
+
+__Precondition:__
+* Open the app
+* Open a list
+
+__Postcondition:__
+* Add ingredient(s)
+
 This part of the app will be an activity where the user can add items to the list. Later on we plan on showing icons next to the items.
 
 **Use Case:**
@@ -124,6 +132,15 @@ is done when...
 * ... you can delete items
 
 #### 3.1.3 show icons next to items
+
+__Precondition:__
+* Open the app
+* Open a list
+* Add a ingredient
+
+__Postcondition:__
+* /
+
 This feature will be a simple icon for each category. So for example for bread a little wheat icon.
 
 **Use Case:**
@@ -133,6 +150,14 @@ is done when...
 * ... see the fitting icon for the item (for tomato and cucumber a vegetable icon, for bread a wheat icon)
 
 #### 3.1.4 search for Chefkoch recipes and add ingredients
+
+__Precondition:__
+* Open the app
+* Open the chefkoch activity
+
+__Postcondition:__
+* Search for a recipe
+
 This part of the app will enable the user to search for chefkoch recipes and show it with the pictures and ingredients. The user should also be able to add the ingredients to one chosen list.
 
 **Use Case:**
@@ -142,6 +167,15 @@ is done when...
 * ... you can select a recipe and add the ingredients with their amount to the list
 
 #### 3.1.5 nearest Supermarket
+
+__Precondition:__
+* Open the app
+* Open the supermarket activity
+* Allow location tracking
+
+__Postcondition:__
+* Choose a supermarket
+
 This feature will give the suer the opportunity to search for a supermarket near to him based up on his location
 
 **UseCase**
@@ -152,6 +186,14 @@ is done when...
 * ... you can open and navigate in google maps
 
 #### 3.1.6 Settings
+
+__Precondition:__
+* Open the app
+* Open the settings
+
+__Postcondition:__
+* /
+
 The user can configure and personalise the app. 
 
 **Use Case:**
