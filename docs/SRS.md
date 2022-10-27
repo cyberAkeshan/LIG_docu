@@ -96,6 +96,12 @@ Project Management: Youtrack
 
 #### 3.1.1 List Overview
 
+Precondition:
+* User opens the app
+
+Postcondition:
+/
+
 The start page of listItGrocery will be an empty page only with an action bar and an add button at the beginning. The user can add lists via the add button with a name.
 
 **Use Case:**
