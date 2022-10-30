@@ -20,29 +20,13 @@ The addItem UC is one of the key features of listItGrocery. As a user of this ap
 
 This UCRS is associated with the 3.1.2 in List View. There is a brief description of the use case in our [SRS](https://github.com/KadrioL/LIG_docu/blob/main/docs/SRS.md#31-functionality) .
 
-
-Actors of this app can only be users.
-
-The different features we want to include are:
-
-* add a List: 
-  The List feature is one of the key features. Users should be able to create lists with a list name, a progress bar in the list View, amount of items in the list and  a settings menu for each list
-* add items to a list: 
-  The user should be able to add items to his grocery shopping list
-* see item icons: 
-  The user should see a little icon next to his grocery item.
-* nearest supermarket: 
-  The user should see the nearest supermarket based on his location.
-* search chefkoch recipes: 
-  The user should be able to search for a chefkoch recipe and add the ingredients to a list 
-  
-
 ### 1.3 Definitions, Acronyms and Abbreviations
 
 | Abbrevation | Explanation                            |
 | ----------- | -------------------------------------- |
 | SRS         | Software Requirements Specification    |
 | UIList         | User Interface List    |
+| UCRS        | Use Case Realization Specification    |
 
 ### 1.4 References
 
@@ -54,8 +38,15 @@ The different features we want to include are:
 
 ### 1.5 Overview
 
-The following chapter provides an overview of this project with vision and Overall Use Case Diagram. The third chapter (Requirements Specification) delivers more details about the specific requirements in terms of functionality, usability and design parameters. Finally there is a chapter with supporting information.
+The following chapter provides a view over the flow of events for the addItem UCRS
 
 ## 2. Flow of Events
+
+In the following picture you see the procedure of the addItem use case.
+The user has the android app open and chooses a list. There can be several lists for the user which he creates.
+So he chooses one and the view of the app changes from the main "list" view where the user sees a list of the lists to the "in list" view 
+where the user is in one specific list. There he adds an item over the button, an insert field pops up and he gives it a name. After he confirms the name
+the item will be added to the list storage and the user sees an updated view of all the listitems for this list.
+
 
 ![alt text](https://i.imgur.com/JgnTRav.png "Flow of Events addItem")
