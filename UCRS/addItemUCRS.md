@@ -58,3 +58,4 @@ The following chapter provides an overview of this project with vision and Overa
 
 ## 2. Flow of Events
 
+![alt text](https://i.imgur.com/JgnTRav.png "Flow of Events addItem")
