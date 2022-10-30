@@ -51,7 +51,7 @@ where the user is in one specific list.
 
 There he adds an item over the button, an insert field pops up and he gives it a name.
 
-After he confirms the name the item will be added to the list storage and the user sees an updated view of all the listitems for this list.
+After he confirms the name of the item will be added to the list storage and the user sees an updated view of all the listitems for this list.
 
 
 ![alt text](https://i.imgur.com/JgnTRav.png "Flow of Events addItem")
