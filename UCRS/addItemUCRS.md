@@ -1,4 +1,4 @@
-# listItGrocery - Software Requirements Specification 
+# Use-Case-Realization Specification: addItem
 
 ## Table of contents
 - [Table of contents](#table-of-contents)
@@ -14,12 +14,12 @@
 
 ### 1.1 Purpose
 
-Welcome to our Software Requirements Specification (SRS). Here we will describe all specifications for our android app "listItGtovrtx". This SRS will include an overview about our project and what we plan for it in the future. We will also mention and describe information about the planned features and general conditions of the development process.
-We want to develop this app to keep grocery shopping easy. A simple grocery shopping list app without any kind of ad. We want to keep it simple so we have some necessary and some enhanced features. These will include adding lists, adding items to the list, view icons next to items, find the nearest supermarket, search and view chefkoch recipes with ingredients.
+The addItem UC is one of the key features of listItGrocery. As a user of this app you want to add grocery items to your shopping list. You want to add items to the list you chose with the amount you want to buy.
 
 ### 1.2 Scope
 
-The listItGrocery app, as mentioned in "1.1 Purpose", is going to be an android app.
+This UCRS is associated with the 3.1.2 in List View. There is a brief description of the use case in our [SRS](https://github.com/KadrioL/LIG_docu/blob/main/docs/SRS.md#31-functionality) .
+
 
 Actors of this app can only be users.
 
