@@ -42,6 +42,7 @@ The different features we want to include are:
 | Abbrevation | Explanation                            |
 | ----------- | -------------------------------------- |
 | SRS         | Software Requirements Specification    |
+| UIList         | User Interface List    |
 
 ### 1.4 References
 
