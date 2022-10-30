@@ -43,10 +43,13 @@ The following chapter provides a view over the flow of events for the addItem UC
 ## 2. Flow of Events
 
 In the following picture you see the procedure of the addItem use case.
+
 The user has the android app open and chooses a list. There can be several lists for the user which he creates.
+
 So he chooses one and the view of the app changes from the main "list" view where the user sees a list of the lists to the "in list" view 
-where the user is in one specific list. There he adds an item over the button, an insert field pops up and he gives it a name. After he confirms the name
-the item will be added to the list storage and the user sees an updated view of all the listitems for this list.
+where the user is in one specific list.
+There he adds an item over the button, an insert field pops up and he gives it a name.
+After he confirms the name the item will be added to the list storage and the user sees an updated view of all the listitems for this list.
 
 
 ![alt text](https://i.imgur.com/JgnTRav.png "Flow of Events addItem")
