@@ -14,7 +14,13 @@
 
 ### 1.1 Purpose
 
-The nearest Supermarket UC is one of the advanced features of listItGrocery which we plan to implement in the fourth semester if we are in time with our key features. As a user of this app you want to find the nearest supermarket based on your location. Also with the opportunity to filter through the found supermarkets.
+The nearest Supermarket UC is one of the advanced features of listItGrocery which we plan to implement in the fourth semester if we are in time with our key features. 
+
+As a User i want to see the nearest supermarket based up from my location to know where I can shop my groceries (Effort hight)
+is done when...
+* ... you can see the nearest supermarket
+* ... you can filter your favourite supermarkets
+* ... you can open and navigate in google maps
 
 ### 1.2 Scope
 
