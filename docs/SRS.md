@@ -171,13 +171,7 @@ __Postcondition:__
 * Choose a supermarket
 
 This feature will give the suer the opportunity to search for a supermarket near to him based up on his location
-
-**UseCase**
-As a User i want to see the nearest supermarket based up from my location to know where I can shop my groceries (Effort hight)
-is done when...
-* ... you can see the nearest supermarket
-* ... you can filter your favourite supermarkets
-* ... you can open and navigate in google maps
+Here you will find the [UCRS](https://github.com/KadrioL/LIG_docu/blob/main/UCRS/nearestSupermarketUCRS.md) to this Use Case.
 
 #### 3.1.6 Settings
 
