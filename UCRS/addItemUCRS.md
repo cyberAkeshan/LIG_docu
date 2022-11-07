@@ -14,7 +14,13 @@
 
 ### 1.1 Purpose
 
-The addItem UC is one of the key features of listItGrocery. As a user of this app you want to add grocery items to your shopping list. You want to add items to the list you chose with the amount you want to buy.
+The addItem UC is one of the key features of listItGrocery.
+
+As a User i want to add items to my list to keep an overview over my next grocery shopping (Effort Low)
+is done when...
+* ... you can add items with their amount and save them
+* ... you can change items and their amount
+* ... you can delete items
 
 ### 1.2 Scope
 
