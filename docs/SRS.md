@@ -125,13 +125,6 @@ __Postcondition:__
 This part of the app will be an activity where the user can add items to the list. Later on we plan on showing icons next to the items.
 Here you will find our [UCRS](https://github.com/KadrioL/LIG_docu/blob/main/UCRS/addItemUCRS.md) to this Use Case.
 
-**Use Case:**
-As a User i want to add items to my list to keep an overview over my next grocery shopping (Effort Low)
-is done when...
-* ... you can add items with their amount and save them
-* ... you can change items and their amount
-* ... you can delete items
-
 #### 3.1.3 show icons next to items
 
 __Precondition:__
