@@ -262,6 +262,19 @@ n/a
 ## 4. Supporting Information
 For more information check out our [listItGrocery Blog](https://listitgrocery.wordpress.com/) 
 
+## 5. Logical View
+
+## 6. Process View
+
+## 7. Deployment View
+
+## 8. Implementation View
+
+### 8.1 Overview 
+![Components_diagram](https://user-images.githubusercontent.com/59804062/206198490-da1fddd5-98ca-4e65-8b98-e14bd36fa48d.png)
+
+### 8.2 Layers
+
 # Made with ❤️ by:
 | Name                                       | Username              |
 | ------------------------------------------ | ----------------- |
