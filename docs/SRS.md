@@ -90,6 +90,10 @@ Source Control Management: GitHub
 
 Project Management: Youtrack
 
+### 2.4 UML Sequence Diagram
+
+![Sequence](https://user-images.githubusercontent.com/59804062/206399264-d72076cd-e4de-4aa8-a7d9-d44452d0075b.png)
+
 ## 3. Specific Requirements
 
 ### 3.1 Functionality
