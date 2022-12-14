@@ -31,7 +31,7 @@
 
 ### 1.1 Purpose
 
-Welcome to our Software Requirements Specification (SRS). Here we will describe all specifications for our android app "listItGtovrtx". This SRS will include an overview about our project and what we plan for it in the future. We will also mention and describe information about the planned features and general conditions of the development process.
+Welcome to our Software Requirements Specification (SRS). Here we will describe all specifications for our android app "listItGrocery". This SRS will include an overview about our project and what we plan for it in the future. We will also mention and describe information about the planned features and general conditions of the development process.
 We want to develop this app to keep grocery shopping easy. A simple grocery shopping list app without any kind of ad. We want to keep it simple so we have some necessary and some enhanced features. These will include adding lists, adding items to the list, view icons next to items, find the nearest supermarket, search and view chefkoch recipes with ingredients.
 
 ### 1.2 Scope
