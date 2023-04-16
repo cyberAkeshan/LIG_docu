@@ -31,4 +31,4 @@
 
 ## 3. Activity Diagram
 
-![alt text](https://imgur.com/a/3QWCSL6.png "Activity Diagram addList")
+![alt text](https://i.imgur.com/a/3QWCSL6.png "Activity Diagram addList")
