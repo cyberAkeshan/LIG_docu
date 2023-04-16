@@ -61,3 +61,4 @@ After he confirms the name of the item the item will be added to the list storag
 
 
 ![alt text](https://i.imgur.com/JgnTRav.png "Flow of Events addItem")
+![alt text](https://i.imgur.com/gpic3cP.png "Activity Diagram addItems")
