@@ -9,7 +9,7 @@
     - [References](#14-references)
     - [Overview](#15-overview)
 - [Flow of Events](#2-flow-of-events)
-- [Activity Diagram] (#3-activity-diagram)
+- [Activity Diagram](#3-activity-diagram)
 
 ## 1. Introduction
 
