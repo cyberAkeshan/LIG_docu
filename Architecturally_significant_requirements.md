@@ -27,6 +27,7 @@
 
 These architectural decisions provide a solid foundation for developing a functional and user-friendly shopping list app. They promote a clear separation of responsibilities, efficient data management, and testing to ensure optimal performance and user experience
 
+## GUI Design  
 We decided to put a bar below with the most important functions at the bottom. The advantages of placing important functions at the bottom of the screen:
 - Easier accessibility with one hand
 - Improved usability and simplified interaction
