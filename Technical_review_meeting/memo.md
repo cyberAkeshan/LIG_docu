@@ -1,0 +1,8 @@
+- Date: 03.06.2023 3 p.m. to 4 p.m
+- Participants: @fezaaan (Writed the Code), @akeshan (Moderator), @hananewassim8 (Time Keeper)
+- Goal: To see how far this feature is and how much still needs to be done
+- Components for Review: Android Studio & Realtime Database (Firebase)
+- Criteria of review: Code Quality 
+- Review methodology: Formal Inspection & Code Review
+- Outcome: The saving function works successfully and as a next step we will use a hardware device for the demo because the emulator from android studio is very slow.
+- Action: @fezaaan is asks his brother for his android phone, otherwise we will ask johannes from our course
