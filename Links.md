@@ -1,3 +1,3 @@
 - YouTrack: https://listitgrocery.youtrack.cloud/dashboard?id=3c12d5f4-942c-4e99-9b83-13b49f68bde2
-- GitHub Repository: Github Rep: https://github.com/cyberAkeshan/listItGrocery
+- GitHub Repository: https://github.com/cyberAkeshan/listItGrocery
 - Blogposts: https://listitgrocery.wordpress.com/
